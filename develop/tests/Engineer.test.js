@@ -2,7 +2,7 @@ const Engineer = require('../lib/engineer')
 
 const newEngineer = new Engineer("Jenny", "1234", "123@email", "jennyzzhh")
 describe("Engineer", () => {
-    describe("test all proerties", () => {
+    describe("test all properties", () => {
         it("test name", () => {
             expect(newEngineer.name).toEqual("Jenny")
         })

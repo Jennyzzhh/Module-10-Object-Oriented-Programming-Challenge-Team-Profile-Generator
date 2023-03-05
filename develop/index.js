@@ -69,7 +69,7 @@ function addEngineer() {
     .prompt(engineerQuestion)
     .then((response) => {
       console.log(response)
-      const engineer = new Engineer(response.name, response.id, response.email, response.github)
+      const engineer = new Engineer(response.name,response.id, response.email, response.github)
       team.push(engineer)
       menu()
     }
