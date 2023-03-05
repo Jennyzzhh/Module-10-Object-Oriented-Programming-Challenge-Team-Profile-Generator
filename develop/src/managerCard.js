@@ -5,7 +5,7 @@ function managerCard(response) {
     <div class="container">
       <h4><b>${response.name}</b></h4>
       <p>${response.id}</p>
-      <a href="mailto:${response.email}">${response.email}</a>
+      <a href="mailto:${response.email}">email: ${response.email}</a>
       <p>${response.officenumber}</p>
     </div>
     </div>
