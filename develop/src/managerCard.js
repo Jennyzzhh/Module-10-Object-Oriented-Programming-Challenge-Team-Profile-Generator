@@ -6,7 +6,7 @@ function managerCard(response) {
     <div class="container">
       <h4><b>${response.name}</b></h4>
       <p>${response.id}</p>
-      <p>${response.email}</p>
+      <p class="email">${response.email}</p>
       <p>${response.officenumber}</p>
     </div>
     </div>

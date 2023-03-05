@@ -13,6 +13,7 @@ return `<!DOCTYPE html>
 <body>
 ${card}
 <script src="./index.js"></script>
+<script src="../src/script.js"></script>
 </body>
 
 </html>
