@@ -12,8 +12,8 @@ return `<!DOCTYPE html>
 
 <body>
 ${card}
-<script src="./index.js"></script>
-<script src="../src/script.js"></script>
+<script src="../index.js"></script>
+
 </body>
 
 </html>
