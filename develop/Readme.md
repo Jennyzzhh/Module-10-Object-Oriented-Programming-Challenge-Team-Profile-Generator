@@ -21,6 +21,5 @@
 
 ## deployed application
 
-[application link] (https://jennyzzhh.github.io/Module6-Weather-Dashboard/)
 
-[Github link] (https://github.com/Jennyzzhh/Module6-Weather-Dashboard.git)
+[Github link] (https://github.com/Jennyzzhh/Module-10-Object-Oriented-Programming-Challenge-Team-Profile-Generator.git)
