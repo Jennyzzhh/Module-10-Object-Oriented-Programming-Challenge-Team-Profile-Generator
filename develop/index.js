@@ -29,32 +29,6 @@ let questions = [
   }
 
 ]
-// {
-//   type: 'list',
-//   message: 'What is your role',
-//   name: 'role',
-//   choices: ['Employee', 'Engineer', 'Intern', 'Manager'],
-// },
-// {
-//   type: 'input',
-//   message: 'What is your github',
-//   name: 'github',
-//   when: (response) => response.role === 'Engineer',
-// },
-// {
-//   type: 'input',
-//   message: 'What is your school',
-//   name: 'school',
-//   when: (response) => response.role === 'Intern',
-// },
-// {
-//   type: 'input',
-//   name: 'officenumber',
-//   message: 'What is your officenumber?',
-//   when: (response) => response.role === 'Manager',
-// 
-
-
 
 //inquire-get data- array of constructors, make a html card 
 
